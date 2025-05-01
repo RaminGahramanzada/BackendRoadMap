@@ -1,14 +1,16 @@
-# BackendRoadMap
-Bu layihənin məqsədi Java proqramlaşdırma dili və ümumilikdə proqram mühəndisliyi (software engineering) sahəsində əsas anlayışları Azərbaycan dilində izah etməkdir. Layihə sillabus formasında qurulacaq və tədricən inkişaf etdiriləcək.
+# 🧭 Backend RoadMap – Azərbaycan dilində
 
-📚 Məzmun necə bölünəcək?
+## 📌 Layihə Haqqında
 
-Teorik izahlar – Medium hesabımda: @ramingahramanzada_285
+Bu layihənin məqsədi **Java proqramlaşdırma dili** və ümumilikdə **software engineering** sahəsində vacib olan mövzuları **Azərbaycan dilində** izah etməkdir.
 
-Kod nümunələri və tətbiqlər – bu GitHub reposunda
+📚 Yazılar **ardıcıllıqla və sillabus formasında** Medium üzərindən paylaşılacaq.  
+💻 Kod nümunələri isə bu GitHub reposunda yerləşdiriləcək.
 
-🌐 Portfolio və layihələrim:
 
-Portfolio: ramin.cloud
 
-Startup: Yarpaq Software Solutions
+## 🔗 Faydalı Linklər
+
+- 🚀 Portfolio Saytım: [ramin.cloud](https://ramin.cloud)  
+- 🧠 Medium Yazılarım: [medium.com/@ramingahramanzada_285](https://medium.com/@ramingahramanzada_285)  
+- 🏢 Startup – Yarpaq Software Solutions: [yarpaqweb.onrender.com](https://yarpaqweb.onrender.com)
