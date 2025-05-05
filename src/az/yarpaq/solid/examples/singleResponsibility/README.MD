@@ -13,7 +13,7 @@ public void withdraw(String accountId, double amount) {
 // Balansı azaldır
 System.out.println("✅ Hesabdan çıxarıldı: " + amount + " AZN");
 
-        // Log yazır
+        /
         System.out.println("📄 LOG: " + accountId + " hesabından " + amount + " AZN çıxarıldı");
 
         // Email göndərir
