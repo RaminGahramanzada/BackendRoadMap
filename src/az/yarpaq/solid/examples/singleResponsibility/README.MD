@@ -1,6 +1,7 @@
-👨‍💼 Elçin — Backend Developer
+📖 İlk öncə bu məqaləni oxuyun:
+👉 https://medium.com/@ramingahramanzada_285/single-responsibility-principle-srp-a38742dc258f
 
-Elçin bir fintech startup-ı olan BankMaster şirkətində işləyir. Onların tətbiqi vasitəsilə istifadəçilər kartlarından ödəniş edə, pul çıxara və bildiriş ala bilirlər.
+👨‍💼 Elçin — Backend Developer
 
 Bir gün rəhbər deyir:
 
